@@ -9,7 +9,7 @@ int main()
 	bool f=0;
 
 	cin >> t;
-	for (int i = 0; i < t; i++)
+	for (int i = 1; i < t+1; i++)
 	{
 		cin >> cm;
 		cin >> n;
