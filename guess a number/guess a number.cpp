@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	string cm;
-	int t, n,max=2000000001,min=-2000000001;
+	int t, n,max=2000000001,min=-2000000009;
 	char x;
 	bool f=0;
 
